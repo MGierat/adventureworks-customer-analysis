@@ -1,6 +1,8 @@
 # AdventureWorks - analiza klientów i powracających zakupów
 
-## Cel: Celem projektu jest analiza powracających zakupów klientów AdventureWorks oraz określenie, które segmenty klientów odpowiadają za największą część wartości zamówień. Raport porównuje również zachowania zakupowe sklepów i klientów indywidualnych oraz przedstawia miesięczne zmiany liczby nowych i powracających klientów.
+## Cel: 
+
+Celem projektu jest analiza powracających zakupów klientów AdventureWorks oraz określenie, które segmenty klientów odpowiadają za największą część wartości zamówień. Raport porównuje również zachowania zakupowe sklepów i klientów indywidualnych oraz przedstawia miesięczne zmiany liczby nowych i powracających klientów.
 
 ## Narzędzia: 
 
